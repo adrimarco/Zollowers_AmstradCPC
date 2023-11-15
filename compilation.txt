@@ -1,0 +1,5 @@
+EN
+In order to compile the game, open a command console and execute the command "make" in this directory.
+
+ES
+Para compilar el juego, abre una terminal y ejecuta el comando "make" en esta carpeta.
